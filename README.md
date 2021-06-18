@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Done Projects:
+- [MBOT](https://iammbot.herokuapp.com) for my client
+- [Restaurant-bot](https://github.com/Ajju2211/Restaurant-Bot-Automation) for Naaniz Pvt Ltd.
+- [Chatbot-server](https://github.com/Ajju2211/rasa-server) for Naaniz Pvt ltd
+- [Bot-UI](https://github.com/Ajju2211/bot-ui)
+- [Blog.foodparrot.tech](https://blog.foodparrot.tech)
+- [FoodParrot](https://foodparrot.tech)
+
+🔭 I’m currently working on:
+- My Own startup foodparrot.tech a chatbot based ordering system
+- Building Dashbord, ordering website for the startup.
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Nodejs.
 - 🌱 I’m currently learning ML and mathematics required for ML and Data Science.
