@@ -1,4 +1,4 @@
-I love coding in Javascript . I am studying at [sinst](https://sreenidhi.edu.in/) as a CSE Btech.
+I love coding in Javascript . I am studying at [snist](https://sreenidhi.edu.in/) as a CSE Btech.
 
 <!--
 
