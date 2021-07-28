@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Done Projects:
+- [FreeIdCard](https://freeidcard.ml)
 - [MBOT](https://iammbot.herokuapp.com) for my client
 - [Restaurant-bot](https://github.com/Ajju2211/Restaurant-Bot-Automation) for Naaniz Pvt Ltd.
 - [Chatbot-server](https://github.com/Ajju2211/rasa-server) for Naaniz Pvt ltd
