@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Done Projects:
-- [Breaking Bad](https://br-b.netlify.app/)
+- [Breaking Bad](https://br-b.netlify.app/) Showcasing the characters from the master peice series Breaking Bad
 - [FreeIdCard](https://freeidcard.ml) Get your college ID card for free, specially for our college students.
 - [MBOT](https://iammbot.herokuapp.com) for my client
 - [Restaurant-bot](https://github.com/Ajju2211/Restaurant-Bot-Automation) for Naaniz Pvt Ltd.
