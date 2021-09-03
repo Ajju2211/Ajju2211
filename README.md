@@ -1,6 +1,9 @@
 I love coding in Javascript . I am studying at [snist](https://sreenidhi.edu.in/) as a CSE Btech.
 
 <!--
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,10 +13,6 @@ I love coding in Javascript . I am studying at [snist](https://sreenidhi.edu.in/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Ajju2211/Ajju2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![alt text](https://avatars.githubusercontent.com/u/43109538?v=4)<br>
-Here are some ideas to get you started:
-
 ⚡ Done Projects:
 - [Breaking Bad](https://br-b.netlify.app/) Showcasing the characters from the master peice series Breaking Bad
 - [FreeIdCard](https://freeidcard.ml) Get your college ID card for free, specially for our college students.
@@ -69,4 +68,3 @@ Here are some ideas to get you started:
 
 
 </p>
-
