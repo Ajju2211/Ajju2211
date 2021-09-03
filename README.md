@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [Blog.foodparrot.tech](https://blog.foodparrot.tech)
 - [FoodParrot](https://foodparrot.tech)
 
-[![Ajju2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajju2211)](https://github.com/anuraghazra/github-readme-stats)
+![Ajju2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajju2211&show_icons=true&theme=dark)
 
 🔭 I’m currently working on:
 - My Own startup foodparrot.tech a chatbot based ordering system
