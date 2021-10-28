@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [Bot-UI](https://github.com/Ajju2211/bot-ui)
 - [Blog.foodparrot.tech](https://blog.foodparrot.tech)
 - [FoodParrot](https://foodparrot.tech)
+- [Pic2Text](https://github.com/Ajju2211/Pic2Text) Offline desktop application to scan the images and save text files.
 
 ![Ajju2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajju2211&show_icons=true&theme=dark)
 
