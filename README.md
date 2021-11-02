@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ⚡ Done Projects:
 - [Breaking Bad](https://br-b.netlify.app/) Showcasing the characters from the master peice series Breaking Bad
 - [FreeIdCard](https://freeidcard.ml) Get your college ID card for free, specially for our college students.
+- [Shooter-Game](https://github.com/Ajju2211/shooter) Simple multiplayer game run on any browser.
 - [MBOT](https://iammbot.herokuapp.com) for my client
 - [Restaurant-bot](https://github.com/Ajju2211/Restaurant-Bot-Automation) for Naaniz Pvt Ltd.
 - [Chatbot-server](https://github.com/Ajju2211/rasa-server) for Naaniz Pvt ltd
