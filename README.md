@@ -21,15 +21,16 @@ Here are some ideas to get you started:
 - [Restaurant-bot](https://github.com/Ajju2211/Restaurant-Bot-Automation) for Naaniz Pvt Ltd.
 - [Chatbot-server](https://github.com/Ajju2211/rasa-server) for Naaniz Pvt ltd
 - [Bot-UI](https://github.com/Ajju2211/bot-ui)
-- [Blog.foodparrot.tech](https://blog.foodparrot.tech)
-- [FoodParrot](https://foodparrot.tech)
+- [Blog.ofas.tech](https://blog.ofas.tech)
+- [OFAS](https://ofas.tech)
 - [Pic2Text](https://github.com/Ajju2211/Pic2Text) Offline desktop application to scan the images and save text files.
 
 ![Ajju2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajju2211&show_icons=true&theme=dark)
 
 🔭 I’m currently working on:
-- My Own startup foodparrot.tech a chatbot based ordering system
-- Building Dashbord, ordering website for the startup.
+- My project ofas.tech a chatbot based ordering system
+- Building Dashbord, ordering website for this.
+- And airbook.netlify.app is almost ready to to be in production soon to solve a thousands of college students problem of finding the right material during the exams to prepare.
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Nodejs.
 - 🌱 I’m currently learning ML and mathematics required for ML and Data Science.
