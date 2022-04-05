@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - [Blog.ofas.tech](https://blog.ofas.tech)
 - [OFAS](https://ofas.tech)
 - [Pic2Text](https://github.com/Ajju2211/Pic2Text) Offline desktop application to scan the images and save text files.
+- [AirBook](https://airbook.netlify.app/) A platform which helps the faculties to share the study materials to the students using the google drive of individual faculties for managing the files.
 
 ![Ajju2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajju2211&show_icons=true&theme=dark)
 
